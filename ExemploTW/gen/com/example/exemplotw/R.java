@@ -25,11 +25,14 @@ public final class R {
         public static int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static int action_settings=0x7f080001;
-        public static int editText=0x7f080000;
+        public static int action_settings=0x7f080003;
+        public static int nomeEditText=0x7f080000;
+        public static int nomesListView=0x7f080001;
+        public static int progressBar1=0x7f080002;
     }
     public static final class layout {
         public static int activity_main=0x7f030000;
+        public static int screen_splash=0x7f030001;
     }
     public static final class menu {
         public static int main=0x7f070000;
