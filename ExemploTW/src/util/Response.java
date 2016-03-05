@@ -1,8 +1,8 @@
 package util;
 
 public class Response {
-
-    private int statusCodeHttp;
+	
+	private int statusCodeHttp;
 
     private String contentValue;
 
@@ -20,7 +20,7 @@ public class Response {
     }
 
     public String getContentValue() {
-    	return contentValue;
+        return contentValue;
     }
 
     public void setContentValue(String contentValue) {
